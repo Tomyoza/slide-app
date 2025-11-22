@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Slides 3.0</string>
+    <string name="title_activity_prefs">Settings</string>
+
+    <!-- Prefs Music Settings -->
+    <string name="music_title">Background Music</string>
+    <string name="music_summary_on">Music will play</string>
+    <string name="music_summary_off">Music will not play</string>
+
+    <string name="animation_speed_title">Animation Speed</string>
+    <string name="animation_speed_summary">Select the animation speed</string>
+
+    <!-- Prefs Animation Speed Settings -->
+    <string-array name="animation_speed_options">
+        <item>Fast</item>
+        <item>Medium</item>
+        <item>Slow</item>
+    </string-array>
+    <!-- Prefs Animation Speed Values -->
+    <string-array name="animation_speed_values">
+        <item>20</item>
+        <item>10</item>
+        <item>5</item>
+    </string-array>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
