@@ -1,5 +1,11 @@
 # SlideApp: Modernizing Traditional Strategy
 
+<p align="center">
+  <img src="PlayVideo.gif" width="300" alt="SlideApp Gameplay Demo">
+  <br>
+  <i>Gameplay demonstration of SlideApp</i>
+</p>
+
 An Android application developed to bridge cultural gaps by introducing **Gomoku** (Japanese Five-in-a-Row) to an international audience through an intuitive, pixel-art interface.
 
 ### 🌟 Project Vision
